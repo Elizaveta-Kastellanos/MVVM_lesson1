@@ -1,0 +1,23 @@
+
+02/09/2022T00:34:01 Answer = 1.0
+02/09/2022:35:07 Answer = 12
+02/09/2022 T00:36 Answer = 12
+02/09/2022 Time 00:54 Answer = 15
+02/09/2022 Time 00:55 Answer = 11
+02/09/2022 Time 00:56 Answer = 5
+02/09/2022 Time 00:56 Answer = 217
+02/09/2022 Time 00:57 Answer = None
+02/09/2022 Time 14:50 Answer = 12
+02/09/2022 Time 15:15 Answer = 14
+02/09/2022 Time 15:22 Answer = 4
+02/09/2022 Time 15:43 Answer = 4
+02/09/2022 Time 15:44 Answer = 4
+02/09/2022 Time 15:45 Answer = 4
+02/09/2022 Time 15:47 Answer = 4
+02/09/2022 Time 15:51 Answer = 11
+02/09/2022 Time 15:52 Answer = 10
+02/09/2022 Time 15:53 Answer = 16
+02/09/2022 Time 15:53 Answer = 12
+02/09/2022 Time 15:56 Answer = 72
+02/09/2022 Time 15:58 Answer = 40
+02/09/2022 Time 15:58 Answer = 20.0
